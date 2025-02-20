@@ -1,0 +1,12 @@
+__pycache__
+*.egg-info
+book.txt
+lightrag-dev/
+
+dist/
+data/*
+
+.idea/
+.vscode/
+
+.env
